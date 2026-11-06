@@ -89,3 +89,5 @@ except KeyboardInterrupt:
     bus.close()
     client.loop_stop()
     client.disconnect()
+    #boom am aparut
+
